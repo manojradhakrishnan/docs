@@ -50,6 +50,29 @@
       ]
     },
     {
+      "group": "Understanding Payments",
+      "pages": [
+        "Payment Methods",
+        "Connectors",
+      ]
+    },
+    {
+      "group": "Tutorial",
+      "pages": [
+        "Connectors",
+        "Payment flows"
+      ]
+    },
+    {
+      "group": "Engineering Excellence",
+      "pages": [
+        "Payment Abstractions",
+        "Building for scale",
+        "Optimizing for zero overhead"
+      ]
+    },
+
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
