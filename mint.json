@@ -2,20 +2,20 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Open Payments Switch",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://hyperswitch.io/logos/hyperswitch.svg",
+    "light": "https://hyperswitch.io/logos/hyperswitch.svg"
   },
-  "favicon": "/favicon.png",
+  "favicon": "https://hyperswitch.io/logos/hyperswitch.svg",
   "colors": {
-    "primary": "006DF9",
-    "light": "242F48",
-    "dark": "242F48",
+    "primary": "#006DF9",
+    "light": "#242F48",
+    "dark": "#242F48",
     "background": {
-      "dark": "242F48"
+      "dark": "#242F48"
     },
     "anchors": {
-      "from": "#FF7F57",
-      "to": "#9563FF"
+      "from": "#006DF9",
+      "to": "#006DF9"
     }
   },
   "topbarLinks": [
