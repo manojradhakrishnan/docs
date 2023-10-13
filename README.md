@@ -1,5 +1,17 @@
-# Open Payment Switch Starter Kit
+# Payments Switch - Documentation
 
+This is a documentation for open source payments switch.
+
+## What is a Payment Switch?
+
+The Payments switch is a unified protocol to connect with dozens of different payment processors with very different internal APIs and SDKs. In other words, the payment switch is a set of domain abstractions built with functional programming concepts over leading payment processors, wallets, buy now pay later and banks.
+
+Key features 0f the payment switch are
+- Lightweight: Sub 20 millisecond additional overhead and works like a microservice in you cloud environment
+- Compliant: Incorporated all best practices for achieving PCI compliance
+- Scalable: Engineered for scale and reliability to support enterprise businesses
+
+## Running the docs on Developer environment
 
 ### Development
 
@@ -14,10 +26,6 @@ Run the following command at the root of your documentation (where mint.json is)
 ```
 mintlify dev
 ```
-
-### Publdfdf Changes
-
-Install our Github App to autopropagate changes from youre repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
 
 #### Troubleshooting
 
