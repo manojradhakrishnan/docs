@@ -2,20 +2,16 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Open Payments Switch",
   "logo": {
-    "dark": "https://hyperswitch.io/logos/hyperswitch.svg",
-    "light": "https://hyperswitch.io/logos/hyperswitch.svg"
+    "dark": "/favicon.png",
+    "light": "/favicon.png"
   },
-  "favicon": "https://hyperswitch.io/logos/hyperswitch.svg",
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#006DF9",
-    "light": "#242F48",
-    "dark": "#242F48",
+    "light": "#006DF9",
+    "dark": "#006DF9",
     "background": {
-      "dark": "242F48"
-    },
-    "anchors": {
-      "from": "#006DF9",
-      "to": "#006DF9"
+      "dark": "#242F48"
     }
   },
   "topbarLinks": [
@@ -45,30 +41,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "What is Open Payments Switch?"
-      ]
-    },
-    {
-      "group": "Understanding Payments",
-      "pages": [
-        "Payment Methods",
-        "Connectors"
-      ]
-    },
-    {
-      "group": "Tutorial",
-      "pages": [
-        "Connectors",
-        "Payment flows"
-      ]
-    },
-    {
-      "group": "Engineering Excellence",
-      "pages": [
-        "Payment Abstractions",
-        "Building for scale",
-        "Optimizing for zero overhead"
+        "introduction"
       ]
     },
     {
